@@ -1,2 +1,2 @@
 visit the sites of template 1 :
-template1-html-css.netlify.app
+https://template1-html-css.netlify.app
